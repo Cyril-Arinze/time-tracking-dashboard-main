@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![](screenshots/127.0.0.1_5500_time-tracking-dashboard-main_index.html%20(1).png)
-![](screenshots/127.0.0.1_5500_time-tracking-dashboard-main_index.html%20(1).png)
+![](screenshots/127.0.0.1_5500_time-tracking-dashboard-main_index.html.png)
 
 
 
