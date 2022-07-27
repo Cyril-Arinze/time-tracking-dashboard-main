@@ -23,8 +23,8 @@ $(window).on("load", function () {
                 $(".exercise h2").html("1hr")
                 $(".exercise p").html("Yesterday - 1hr")
                 // Social
-                $(".socail h2").html("1hr")
-                $(".socail p").html("Yesterday - 3hrs")
+                $(".social h2").html("1hr")
+                $(".social p").html("Yesterday - 3hrs")
                 // Self-care
                 $(".self-care h2").html("0hr")
                 $(".self-care p").html("Yesterday - 1hr")
@@ -44,8 +44,8 @@ $(window).on("load", function () {
                  $(".exercise h2").html("4hrs")
                  $(".exercise p").html("Last Week - 5hrs")
                  // Social
-                 $(".socail h2").html("5hrs")
-                 $(".socail p").html("Last Week - 10hrs")
+                 $(".social h2").html("5hrs")
+                 $(".social p").html("Last Week - 10hrs")
                  // Self-care
                  $(".self-care h2").html("2hrs")
                  $(".self-care p").html("Last Week - 2hrs")
@@ -64,8 +64,8 @@ $(window).on("load", function () {
                  $(".exercise h2").html("11hrs")
                  $(".exercise p").html("Last Month - 18hrs")
                  // Social
-                 $(".socail h2").html("21hrs")
-                 $(".socail p").html("Last Month - 23hrs")
+                 $(".social h2").html("21hrs")
+                 $(".social p").html("Last Month - 23hrs")
                  // Self-care
                  $(".self-care h2").html("7hrs")
                  $(".self-care p").html("Last Month - 11hr")
